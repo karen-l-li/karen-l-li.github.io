@@ -57,3 +57,8 @@ p {
     height: 100%;
     margin-top: 10%;
 }
+.phonepic {
+    float: right;
+    margin-top: -17%;
+    margin-right: 20%;
+}
