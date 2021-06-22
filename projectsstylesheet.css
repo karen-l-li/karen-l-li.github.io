@@ -1,0 +1,76 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/*Add a color to the active/current link*/
+.topnav a.active {
+    color: white;
+    font-weight: bold;
+}
+
+.logo {
+    width: 50%;
+    height: 100%;
+    margin-left: 40%;
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 300%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10%;
+}
+iframe {
+    float: right;
+    width: 40%;
+    height: 100%; 
+    margin-top: -12%;
+    margin-right: 10%;
+}
+.footer {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    margin-top: 10%;
+}
+.Pic{
+    float: right;
+    width: 40%;
+    height: 100%;
+    margin-top: -12%;
+    margin-right: 10%;
+}
+
+.logopic{
+    float: right;
+    margin-right: 20%;
+    margin-top: -12%;
+    width: 20%;
+}
+
